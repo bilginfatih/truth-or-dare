@@ -1,16 +1,36 @@
-# truthordare
+# Truth or Dare
 
-A new Flutter project.
+Bu uygulama, Kolay, Orta ve Zor zorluk seviyelerinde Oyun Modları sunan bir "Truth or Dare" oyunudur. Oyuncuların doğruluk veya cesaret görevlerini yerine getirmeleri ve puanlarını kaydetmeleri için tasarlanmıştır.
 
-## Getting Started
+## Kurulum
 
-This project is a starting point for a Flutter application.
+1. Projeyi klonlayın:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone <repository_url>
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Projeyi açın ve bağımlılıkları yükleyin:
+```bash
+cd truth_or_dare
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Uygulamayı çalıştırın:
+```bash
+flutter run
+```
+
+# Kullanım
+- Uygulama başlatıldığında, Oyun Modu seçim ekranı karşınıza çıkacaktır.
+- "Kolay", "Orta" veya "Zor" seçeneklerinden birini seçin.
+- Oyuncu isimlerini girin ve cinsiyetlerini seçin.
+- Oyuncuların doğruluk veya cesaret görevlerini sırayla yerine getirmesine devam edin.
+- Her doğru cevap veya yerine getirilen cesaret görevi için puanları kaydedin.
+- Oyun bittiğinde, sonuçları görüntüleyin.
+
+# Ekran Görüntüleri
+
+
+https://github.com/bilginfatih/truth-or-dare/assets/55558394/83516cd9-66e6-4906-84d6-fc982fc88ae1
+
